@@ -1,0 +1,43 @@
+{
+  "track": "track_2_tier1",
+  "file": "/home/horde/isaac-automation/v2d_track2/outputs/track2_tier1_hardmix.csv",
+  "message": "Tier 1 best-of plus hard-episode object/palm retrain",
+  "submissions": {
+    "add_auc": {
+      "slug": "v2d-challenge-track2-tier1-auc",
+      "state": "COMPLETE",
+      "file": "/home/horde/isaac-automation/v2d_track2/outputs/track2_tier1_hardmix.csv",
+      "message": "Successfully submitted to Track 2 - Robotic Grounding (Tier 1: multi-view input) - AUC",
+      "ref": 57625045,
+      "public_score": "0.43394",
+      "error": ""
+    },
+    "spider_sr": {
+      "slug": "v2d-challenge-track2-tier1-sp-sr",
+      "state": "COMPLETE",
+      "file": "/home/horde/isaac-automation/v2d_track2/outputs/track2_tier1_hardmix.csv",
+      "message": "Successfully submitted to Track 2 - Robotic Grounding (Tier 1: multi-view input) - SP-SR",
+      "ref": 57625046,
+      "public_score": "0.53333",
+      "error": ""
+    },
+    "maniptrans_sr": {
+      "slug": "v2d-challenge-track2-tier1-mp-sr",
+      "state": "COMPLETE",
+      "file": "/home/horde/isaac-automation/v2d_track2/outputs/track2_tier1_hardmix.csv",
+      "message": "Successfully submitted to Track 2 - Robotic Grounding (Tier 1: multi-view input) - MP-SR",
+      "ref": 57625050,
+      "public_score": "0.30000",
+      "error": ""
+    },
+    "mppe_cm": {
+      "slug": "v2d-challenge-track2-tier1-mppe",
+      "state": "COMPLETE",
+      "file": "/home/horde/isaac-automation/v2d_track2/outputs/track2_tier1_hardmix.csv",
+      "message": "Successfully submitted to Track 2 - Robotic Grounding (Tier 1: multi-view input) - MPPE (cm)",
+      "ref": 57625052,
+      "public_score": "13.04419",
+      "error": ""
+    }
+  }
+}

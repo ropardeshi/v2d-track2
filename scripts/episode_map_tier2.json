@@ -1,0 +1,245 @@
+{
+  "tier": "track_2_tier2",
+  "episodes": [
+    {
+      "episode_index": 0,
+      "sequence_id": "2026-06-04_14-16-23_tall_bar_stool_tip_up_04",
+      "object": "tall_bar_stool",
+      "frames": 778,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-04_14-16-23_tall_bar_stool_tip_up_04",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-04_14-16-23_tall_bar_stool_tip_up_04/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 1,
+      "sequence_id": "2026-05-18_17-06-21_vacuum_left_lean_02",
+      "object": "vacuum",
+      "frames": 747,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-18_17-06-21_vacuum_left_lean_02",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-18_17-06-21_vacuum_left_lean_02/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 2,
+      "sequence_id": "2026-06-02_10-04-42_blue_easter_basket_place_10",
+      "object": "blue_easter_basket",
+      "frames": 980,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-02_10-04-42_blue_easter_basket_place_10",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-02_10-04-42_blue_easter_basket_place_10/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 3,
+      "sequence_id": "2026-04-27_11-50-10_contigo_coffee_mug_handle_table_05",
+      "object": "contigo_coffee_mug",
+      "frames": 781,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-04-27_11-50-10_contigo_coffee_mug_handle_table_05",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-04-27_11-50-10_contigo_coffee_mug_handle_table_05/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 4,
+      "sequence_id": "2026-04-24_11-40-52_baseball_bat_rotate_05",
+      "object": "baseball_bat",
+      "frames": 803,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-04-24_11-40-52_baseball_bat_rotate_05",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-04-24_11-40-52_baseball_bat_rotate_05/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 5,
+      "sequence_id": "2026-03-18_19-36-56_g1_box_rotate_01",
+      "object": "big_black_box",
+      "frames": 1003,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-03-18_19-36-56_g1_box_rotate_01",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-03-18_19-36-56_g1_box_rotate_01/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 6,
+      "sequence_id": "2026-06-01_11-26-44_monitor_rotate_05",
+      "object": "monitor",
+      "frames": 546,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-01_11-26-44_monitor_rotate_05",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-01_11-26-44_monitor_rotate_05/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 7,
+      "sequence_id": "2026-05-29_15-20-43_iron_round_table_02",
+      "object": "iron",
+      "frames": 896,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-29_15-20-43_iron_round_table_02",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-29_15-20-43_iron_round_table_02/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 8,
+      "sequence_id": "2026-06-05_15-08-08_skinny_wood_chair_push_10",
+      "object": "skinny_wood_chair",
+      "frames": 708,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-05_15-08-08_skinny_wood_chair_push_10",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-05_15-08-08_skinny_wood_chair_push_10/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 9,
+      "sequence_id": "2026-06-04_16-45-04_big_red_bowl_under_skinny_wood_chair_03",
+      "object": "big_red_bowl",
+      "frames": 870,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-04_16-45-04_big_red_bowl_under_skinny_wood_chair_03",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-04_16-45-04_big_red_bowl_under_skinny_wood_chair_03/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 10,
+      "sequence_id": "2026-05-01_11-36-40_white_desk_lower_to_ground_10",
+      "object": "white_desk",
+      "frames": 794,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-01_11-36-40_white_desk_lower_to_ground_10",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-01_11-36-40_white_desk_lower_to_ground_10/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 11,
+      "sequence_id": "2026-04-24_13-56-58_light_blue_book_pick_place_09",
+      "object": "light_blue_book",
+      "frames": 901,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-04-24_13-56-58_light_blue_book_pick_place_09",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-04-24_13-56-58_light_blue_book_pick_place_09/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 12,
+      "sequence_id": "2026-04-25_17-20-04_black_platform_turn_05",
+      "object": "black_platform",
+      "frames": 700,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-04-25_17-20-04_black_platform_turn_05",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-04-25_17-20-04_black_platform_turn_05/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 13,
+      "sequence_id": "2026-06-09_10-19-09_snack_box_desk_through_06",
+      "object": "snack_box",
+      "frames": 922,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-09_10-19-09_snack_box_desk_through_06",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-09_10-19-09_snack_box_desk_through_06/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 14,
+      "sequence_id": "2026-05-28_14-44-09_round_table_flip_08",
+      "object": "round_table",
+      "frames": 993,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-28_14-44-09_round_table_flip_08",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-28_14-44-09_round_table_flip_08/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 15,
+      "sequence_id": "2026-05-06_11-06-15_wet_floor_sign_pick_place_ground_08",
+      "object": "wet_floor_sign",
+      "frames": 715,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-06_11-06-15_wet_floor_sign_pick_place_ground_08",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-06_11-06-15_wet_floor_sign_pick_place_ground_08/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 16,
+      "sequence_id": "2026-03-12_15-06-36_spray_bottle_left_desk_ground_02",
+      "object": "spray_bottle",
+      "frames": 477,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-03-12_15-06-36_spray_bottle_left_desk_ground_02",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-03-12_15-06-36_spray_bottle_left_desk_ground_02/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 17,
+      "sequence_id": "2026-05-01_17-04-55_traffic_cone_ground_table_02",
+      "object": "traffic_cone",
+      "frames": 440,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-01_17-04-55_traffic_cone_ground_table_02",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-01_17-04-55_traffic_cone_ground_table_02/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 18,
+      "sequence_id": "2026-05-06_10-00-19_blue_trash_can_drag_sideways_08",
+      "object": "blue_trash_can",
+      "frames": 858,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-06_10-00-19_blue_trash_can_drag_sideways_08",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-06_10-00-19_blue_trash_can_drag_sideways_08/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 19,
+      "sequence_id": "2026-05-19_10-19-48_cane_swing_05",
+      "object": "cane",
+      "frames": 886,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-19_10-19-48_cane_swing_05",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-19_10-19-48_cane_swing_05/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 20,
+      "sequence_id": "2026-06-08_16-57-34_rice_cooker_clockwise_04",
+      "object": "rice_cooker",
+      "frames": 553,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-08_16-57-34_rice_cooker_clockwise_04",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-08_16-57-34_rice_cooker_clockwise_04/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 21,
+      "sequence_id": "2026-04-29_11-53-57_tall_bar_stool_pull_08",
+      "object": "tall_bar_stool",
+      "frames": 678,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-04-29_11-53-57_tall_bar_stool_pull_08",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-04-29_11-53-57_tall_bar_stool_pull_08/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 22,
+      "sequence_id": "2026-05-22_16-52-36_step_ladder_drag_03",
+      "object": "step_ladder",
+      "frames": 719,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-22_16-52-36_step_ladder_drag_03",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-22_16-52-36_step_ladder_drag_03/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 23,
+      "sequence_id": "2026-06-03_15-08-03_toy_stroller_back_forth_ground_04",
+      "object": "toy_stroller",
+      "frames": 946,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-03_15-08-03_toy_stroller_back_forth_ground_04",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-03_15-08-03_toy_stroller_back_forth_ground_04/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 24,
+      "sequence_id": "2026-05-29_15-43-20_watering_can_pour_right_02",
+      "object": "watering_can",
+      "frames": 748,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-29_15-43-20_watering_can_pour_right_02",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-29_15-43-20_watering_can_pour_right_02/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 25,
+      "sequence_id": "2026-03-20_11-59-57_cyan_water_bottle_rotate_01",
+      "object": "cyan_water_bottle",
+      "frames": 859,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-03-20_11-59-57_cyan_water_bottle_rotate_01",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-03-20_11-59-57_cyan_water_bottle_rotate_01/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 26,
+      "sequence_id": "2026-06-05_16-05-08_skateboard_rotate_ground_10",
+      "object": "skateboard",
+      "frames": 669,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-05_16-05-08_skateboard_rotate_ground_10",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-05_16-05-08_skateboard_rotate_ground_10/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 27,
+      "sequence_id": "2026-05-01_11-15-05_woven_basket_ground_desk_10",
+      "object": "woven_basket",
+      "frames": 565,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-01_11-15-05_woven_basket_ground_desk_10",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-01_11-15-05_woven_basket_ground_desk_10/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 28,
+      "sequence_id": "2026-05-19_11-27-07_squeegee_sweep_away_from_you_03_",
+      "object": "squeegee",
+      "frames": 988,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-05-19_11-27-07_squeegee_sweep_away_from_you_03_",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-05-19_11-27-07_squeegee_sweep_away_from_you_03_/robot_name=g1/data.parquet"
+    },
+    {
+      "episode_index": 29,
+      "sequence_id": "2026-06-05_18-27-40_rolling_luggage_left_foot_push_06",
+      "object": "rolling_luggage",
+      "frames": 467,
+      "soma_dir": "/home/horde/isaac-automation/v2d_track2/soma_inputs_tier2/sequence_id=2026-06-05_18-27-40_rolling_luggage_left_foot_push_06",
+      "parquet": "/home/horde/isaac-automation/v2d_track2/retargeted/whole_body/v2d_track2_tier2/sequence_id=2026-06-05_18-27-40_rolling_luggage_left_foot_push_06/robot_name=g1/data.parquet"
+    }
+  ]
+}
