@@ -20,5 +20,7 @@ Object trajectories are policy rollouts (`evaluate_policy.py`, world_count=1, VO
 - `scripts/` per-episode FlashSAC train/eval, mix, and pack helpers
 - `configs/` ReconBody objective plus 350M / 16.8M / object / orientation curricula
 - `receipts/` Kaggle upload receipts and the Tier 1 mix table
+- `report/` 2-page technical report PDF
+- `submissions/` counted Kaggle CSVs (same files as Kaggle IDs above)
 
 Policy weights stay in the verification container, not this repo.
